@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/PingComingSoonPageMaster](https://github.com/JoshMooner/PingComingSoonPageMaster)
-- Live Site URL: [https://joshmooner.github.io/PingComingSoonPageMaster/](https://joshmooner.github.io/PingComingSoonPageMaster/)
+- Solution URL: [https://github.com/JosephVTX/PingComingSoonPageMaster/](https://github.com/JosephVTX/PingComingSoonPageMaster/)
+- Live Site URL: [https://josephvtx.github.io/PingComingSoonPageMaster/](https://josephvtx.github.io/PingComingSoonPageMaster/)
 
 ## My process
 
@@ -50,13 +50,3 @@ I learned how to valid a form usign JS and manage css styles properties since JS
 ### Continued development
 
 I want to keep focusing on the manage of styles properties on JS and to keep learning JS on a newbie-junior level.I'm not sure if the warning messages hide and show is done in an optimal way, I think it could be developed in a better way.
-
-### Useful resources
-
-- [Email validation in javascript](https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript) - This helped me to understand how to do a email validation in JS.
-- [StackOverFlow](https://stackoverflow.com/) - This forum site it's amazing to learn programming in general. You can learn anything explained with examples and in a simple way.
-
-
-## Author
-
-- Frontend Mentor - [@JoshMooner](https://www.frontendmentor.io/profile/JoshMooner)
